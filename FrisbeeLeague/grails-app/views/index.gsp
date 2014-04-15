@@ -99,9 +99,7 @@
 					<a href="http://localhost:8080/FrisbeeLeague/team/index" >Teams</a><br>
 					<a href="http://localhost:8080/FrisbeeLeague/fixtures/index" >Fixtures</a><br>
 					<a href="http://localhost:8080/FrisbeeLeague/teamGroup/index" >Leagues</a><br>
-					<a href="http://localhost:8080/FrisbeeLeague/favourites/index" >Favourites</a>
-
-				</ul>
+								</ul>
 			</div>
 		</div>
 	</body>
