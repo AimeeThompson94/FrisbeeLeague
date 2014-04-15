@@ -89,14 +89,18 @@
 			<h1>Extreme Frisbee</h1>
 			<p>Welcome to the home of the South Yorkshire Extreme Frisbee Division; the home of a unique sport open to all ages. </br> Extreme Frisbee is a fast-moving team sport enjoyed by hundreds of thousands of players around the world. Although frequently compared to sports like football or NFL, Extreme has unique features that set it apart. <br> To compete at the highest level, Extreme players are required to have speed, agility and endurance.</p>
 
-<img src="http://www.bareknucks.com/wp-content/uploads/2010/07/Ultimate_Frisbee-1.jpg" width="300" height="220" alt="">
+<img src="http://www.bareknucks.com/wp-content/uploads/2010/07/Ultimate_Frisbee-1.jpg" width="300" height="220" alt=""><br>
+
+<a href="http://localhost:8080/FrisbeeLeague/rules/index">Remind yourself of the rules!!</a>
 
 			<div id="controller-list" role="navigation">
-				<h2>Available Controllers:</h2>
+				<h2>Links</h2>
 				<ul>
-					<g:each var="c" in="${grailsApplication.controllerClasses.sort { it.fullName } }">
-						<li class="controller"><g:link controller="${c.logicalPropertyName}">${c.fullName}</g:link></li>
-					</g:each>
+					<a href="http://localhost:8080/FrisbeeLeague/team/index" >Teams</a><br>
+					<a href="http://localhost:8080/FrisbeeLeague/fixtures/index" >Fixtures</a><br>
+					<a href="http://localhost:8080/FrisbeeLeague/teamGroup/index" >Leagues</a><br>
+					<a href="http://localhost:8080/FrisbeeLeague/favourites/index" >Favourites</a>
+
 				</ul>
 			</div>
 		</div>
