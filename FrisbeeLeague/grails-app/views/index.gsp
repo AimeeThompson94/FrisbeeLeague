@@ -86,14 +86,13 @@
 	<body>
 		
 		<div id="page-body" role="main">
-			<h1>Extreme Frisbee</h1>
-			<p>Welcome to the home of the South Yorkshire Extreme Frisbee Division; the home of a unique sport open to all ages. </br> Extreme Frisbee is a fast-moving team sport enjoyed by hundreds of thousands of players around the world. Although frequently compared to sports like football or NFL, Extreme has unique features that set it apart. <br> To compete at the highest level, Extreme players are required to have speed, agility and endurance.</p>
+			<h1>Extreme Frisbee</h1><br>
+			<p align:center>Welcome to the home of the South Yorkshire Extreme Frisbee Division; the home of a unique sport open to all ages. </br></br> Extreme Frisbee is a fast-moving team sport enjoyed by hundreds of thousands of players around the world. Although frequently compared to sports like football or NFL, Extreme has unique features that set it apart. <br></br> To compete at the highest level, Extreme players are required to have speed, agility and endurance.</p><br>
 
-<img src="http://www.bareknucks.com/wp-content/uploads/2010/07/Ultimate_Frisbee-1.jpg" width="300" height="220" alt=""><br>
 
-<a href="http://localhost:8080/FrisbeeLeague/rules/index">Remind yourself of the rules!!</a>
-
-			<div id="controller-list" role="navigation">
+<a href="http://localhost:8080/FrisbeeLeague/rules/index">Remind yourself of the <b>RULES!!</b></a><br><br>
+<table>
+<tr><td><img src="http://www.bareknucks.com/wp-content/uploads/2010/07/Ultimate_Frisbee-1.jpg" width="300" height="220" alt="Image Currently Unavailable"></td><td><div id="" role="navigation">
 				<h2>Links</h2>
 				<ul>
 					<a href="http://localhost:8080/FrisbeeLeague/team/index" >Teams</a><br>
@@ -101,6 +100,9 @@
 					<a href="http://localhost:8080/FrisbeeLeague/teamGroup/index" >Leagues</a><br>
 								</ul>
 			</div>
+</td></tr>
+</table>
+	
 		</div>
 	</body>
 </html>
