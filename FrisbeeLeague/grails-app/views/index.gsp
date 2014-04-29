@@ -95,7 +95,8 @@
 <tr><td><img src="http://www.bareknucks.com/wp-content/uploads/2010/07/Ultimate_Frisbee-1.jpg" width="300" height="220" alt="Image Currently Unavailable"></td><td><div id="" role="navigation">
 				<h2>Links</h2>
 				<ul>
-					<a href="http://localhost:8080/FrisbeeLeague/team/index" >Teams</a><br>
+				
+<a href="http://localhost:8080/FrisbeeLeague/team/index" >Teams</a><br>
 					<a href="http://localhost:8080/FrisbeeLeague/fixtures/index" >Fixtures</a><br>
 					<a href="http://localhost:8080/FrisbeeLeague/teamGroup/index" >Leagues</a><br>
 								</ul>
@@ -103,6 +104,8 @@
 </td></tr>
 </table>
 	
+
+
 		</div>
 	</body>
 </html>
